@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Windows Defender and Firewall</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Configuring Windows Defender and Firewall](https://github.com/ahmhagi/ahmhagi/issues/1)
 
 <h2> Connect with me:</h2>
 
